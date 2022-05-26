@@ -1,0 +1,18 @@
+{
+    "valueA": {
+        "x1": -503,
+        "x2": -469,
+        "y1": 710,
+        "y2": 730,
+        "doColorInvert": false
+    },
+    "valueB": {
+        "x1": -719,
+        "x2": -686,
+        "y1": 217,
+        "y2": 240,
+        "doColorInvert": true
+    },
+    "delaySeconds": 10,
+    "fullLog": false
+}

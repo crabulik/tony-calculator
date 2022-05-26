@@ -5,7 +5,7 @@ The tool for Tony to add some automation to his buisness.
 ## Prerequisites
 
 - Python 3+ installed: https://www.python.org/downloads/
-= Tesseract=ocr installed: https://github.com/UB-Mannheim/tesseract/wiki
+- Tesseract=ocr installed: https://github.com/UB-Mannheim/tesseract/wiki
 
 ## How to build
 
